@@ -1,0 +1,249 @@
+sky production inc.
+3
+Shnekel
+1
+Nir
+0
+11
+Hidden World
+1 182426312
+Homeland
+2 123886
+Branded Chimera
+0 15123654
+Inner place
+2 1246187
+Talon mid guide
+1 10000453
+Snake eyes
+1 9871248
+Vive la hazard
+2 20
+Watch maple burn
+0 213589133
+Soul farming
+0 3548687
+Bytes and bits
+1 5230056
+Fake news
+1 100000
+4
+Moshe
+30
+Izik
+40
+Yakov
+20
+Dan
+45
+6
+ABS 0 80
+H1K 3 150
+VBN 7 30
+KHJ 6 100
+QWC 5 75
+U3C 4 300
+4
+4
+Homeland
+2 123886
+Vive la hazard
+2 20
+Talon mid guide
+1 10000453
+Branded Chimera
+0 15123654
+2
+Yakov
+20
+KHJ 6 100
+150 90 3
+Izik
+40
+H1K 3 150
+175 40 5
+20000 300
+31 1 2025
+5
+Vive la hazard
+2 20
+Branded Chimera
+0 15123654
+Homeland
+2 123886
+Bytes and bits
+1 5230056
+Talon mid guide
+1 10000453
+1
+Izik
+40
+KHJ 6 100
+200 75 3
+15812 200
+11 12 2023
+3
+Hidden World
+1 182426312
+Fake news
+1 100000
+Soul farming
+0 3548687
+0
+500 75
+27 2 2026
+10
+Snake eyes
+1 9871248
+Hidden World
+1 182426312
+Soul farming
+0 3548687
+Homeland
+2 123886
+Bytes and bits
+1 5230056
+Talon mid guide
+1 10000453
+Inner place
+2 1246187
+Fake news
+1 100000
+Branded Chimera
+0 15123654
+Watch maple burn
+0 213589133
+0
+753243 150
+14 5 2027
+6
+concert
+11 12 2023
+recording at ABC
+1 3 2024
+concert
+31 1 2025
+Press interview
+27 1 2026
+concert
+27 2 2026
+concert
+14 5 2027
+1 2 2036
+360811652.450000
+Sardin
+1
+Yossi
+0
+5
+Discover
+0 23897421
+Overgrown
+0 98753432
+Distant
+1 576882341
+Floating, Drifting
+2 57785830
+Better days
+1 90274321
+2
+Shahar
+50
+Eldar
+10
+2
+UIY 3 150
+FNA 2 50
+0
+0
+11 2 2041
+584450258.250000
+Roses and Guns
+3
+Askel
+0
+Slach
+1
+Oliver
+2
+7
+Dreamfield
+0 20
+Out of patience
+0 52412
+Peacefull war
+0 61242
+Sweet Child O' Yours
+0 31351
+Welcome to the city
+0 56812
+Rain November
+0 111243
+Knocking on hell's door
+0 60000
+2
+Hadar
+30
+Inbal
+40
+5
+QWE 0 1000
+KLJ 4 1350
+JKB 3 5000
+UIO 6 4513
+DFG 7 20
+2
+3
+Sweet Child O' Yours
+0 31351
+Welcome to the city
+0 56812
+Rain November
+0 111243
+2
+Inbal
+40
+JKB 3 5000
+200000 200000 3
+Hadar
+30
+QWE 0 1000
+7000 6500 3
+200 50
+11 12 2024
+3
+Dreamfield
+0 20
+Rain November
+0 111243
+Peacefull war
+0 61242
+0
+200 5
+11 12 2025
+3
+press interview
+11 12 2023
+concert
+11 12 2024
+concert
+11 12 2025
+29 4 2070
+1007260885.100000
+2
+ABC
+4
+0 300
+4 1500
+3 150
+2 700
+3000
+ASD
+5
+0 350
+1 1000
+2 2000
+3 500
+4 999
+5000
+2
